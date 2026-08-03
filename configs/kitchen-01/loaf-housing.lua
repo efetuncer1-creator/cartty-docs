@@ -1,0 +1,815 @@
+-- Cartty Store | Kitchen 01 | Loaf-Housing
+-- Docs: https://cartty.gitbook.io/cartty-docs/documentation/props/kitchen-01
+-- Discord: https://discord.gg/4EXtjUjuKQ
+
+label = "Kitchen",
+furniture = {
+    -- Lower Cabinets
+    {
+        label = "Kitchen01 Lower Cabinet 01 A",
+        object = "cartty_kitchen01_lcabinet01_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 B",
+        object = "cartty_kitchen01_lcabinet01_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 C",
+        object = "cartty_kitchen01_lcabinet01_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 D",
+        object = "cartty_kitchen01_lcabinet01_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 E",
+        object = "cartty_kitchen01_lcabinet01_e",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 F",
+        object = "cartty_kitchen01_lcabinet01_f",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 G",
+        object = "cartty_kitchen01_lcabinet01_g",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 H",
+        object = "cartty_kitchen01_lcabinet01_h",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 J",
+        object = "cartty_kitchen01_lcabinet01_j",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 K",
+        object = "cartty_kitchen01_lcabinet01_k",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 L",
+        object = "cartty_kitchen01_lcabinet01_l",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 M",
+        object = "cartty_kitchen01_lcabinet01_m",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 N",
+        object = "cartty_kitchen01_lcabinet01_n",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 O",
+        object = "cartty_kitchen01_lcabinet01_o",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 P",
+        object = "cartty_kitchen01_lcabinet01_p",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 01 R",
+        object = "cartty_kitchen01_lcabinet01_r",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 A",
+        object = "cartty_kitchen01_lcabinet02_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 B",
+        object = "cartty_kitchen01_lcabinet02_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 C",
+        object = "cartty_kitchen01_lcabinet02_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 D",
+        object = "cartty_kitchen01_lcabinet02_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 E",
+        object = "cartty_kitchen01_lcabinet02_e",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 F",
+        object = "cartty_kitchen01_lcabinet02_f",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 G",
+        object = "cartty_kitchen01_lcabinet02_g",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 H",
+        object = "cartty_kitchen01_lcabinet02_h",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 J",
+        object = "cartty_kitchen01_lcabinet02_j",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 K",
+        object = "cartty_kitchen01_lcabinet02_k",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 L",
+        object = "cartty_kitchen01_lcabinet02_l",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 M",
+        object = "cartty_kitchen01_lcabinet02_m",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 N",
+        object = "cartty_kitchen01_lcabinet02_n",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 O",
+        object = "cartty_kitchen01_lcabinet02_o",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 P",
+        object = "cartty_kitchen01_lcabinet02_p",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 02 R",
+        object = "cartty_kitchen01_lcabinet02_r",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 A",
+        object = "cartty_kitchen01_lcabinet03_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 B",
+        object = "cartty_kitchen01_lcabinet03_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 C",
+        object = "cartty_kitchen01_lcabinet03_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 D",
+        object = "cartty_kitchen01_lcabinet03_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 E",
+        object = "cartty_kitchen01_lcabinet03_e",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 F",
+        object = "cartty_kitchen01_lcabinet03_f",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 G",
+        object = "cartty_kitchen01_lcabinet03_g",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 H",
+        object = "cartty_kitchen01_lcabinet03_h",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 J",
+        object = "cartty_kitchen01_lcabinet03_j",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 K",
+        object = "cartty_kitchen01_lcabinet03_k",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 L",
+        object = "cartty_kitchen01_lcabinet03_l",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 M",
+        object = "cartty_kitchen01_lcabinet03_m",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 N",
+        object = "cartty_kitchen01_lcabinet03_n",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 O",
+        object = "cartty_kitchen01_lcabinet03_o",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 P",
+        object = "cartty_kitchen01_lcabinet03_p",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 03 R",
+        object = "cartty_kitchen01_lcabinet03_r",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 A",
+        object = "cartty_kitchen01_lcabinet04_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 B",
+        object = "cartty_kitchen01_lcabinet04_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 C",
+        object = "cartty_kitchen01_lcabinet04_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 D",
+        object = "cartty_kitchen01_lcabinet04_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 E",
+        object = "cartty_kitchen01_lcabinet04_e",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 F",
+        object = "cartty_kitchen01_lcabinet04_f",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 G",
+        object = "cartty_kitchen01_lcabinet04_g",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 H",
+        object = "cartty_kitchen01_lcabinet04_h",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 J",
+        object = "cartty_kitchen01_lcabinet04_j",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 K",
+        object = "cartty_kitchen01_lcabinet04_k",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 L",
+        object = "cartty_kitchen01_lcabinet04_l",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 M",
+        object = "cartty_kitchen01_lcabinet04_m",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 N",
+        object = "cartty_kitchen01_lcabinet04_n",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 O",
+        object = "cartty_kitchen01_lcabinet04_o",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 P",
+        object = "cartty_kitchen01_lcabinet04_p",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 04 R",
+        object = "cartty_kitchen01_lcabinet04_r",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 A",
+        object = "cartty_kitchen01_lcabinet05_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 B",
+        object = "cartty_kitchen01_lcabinet05_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 C",
+        object = "cartty_kitchen01_lcabinet05_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 D",
+        object = "cartty_kitchen01_lcabinet05_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 E",
+        object = "cartty_kitchen01_lcabinet05_e",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 F",
+        object = "cartty_kitchen01_lcabinet05_f",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 G",
+        object = "cartty_kitchen01_lcabinet05_g",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 H",
+        object = "cartty_kitchen01_lcabinet05_h",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 J",
+        object = "cartty_kitchen01_lcabinet05_j",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 K",
+        object = "cartty_kitchen01_lcabinet05_k",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 L",
+        object = "cartty_kitchen01_lcabinet05_l",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 M",
+        object = "cartty_kitchen01_lcabinet05_m",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 N",
+        object = "cartty_kitchen01_lcabinet05_n",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 O",
+        object = "cartty_kitchen01_lcabinet05_o",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 P",
+        object = "cartty_kitchen01_lcabinet05_p",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 05 R",
+        object = "cartty_kitchen01_lcabinet05_r",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 A",
+        object = "cartty_kitchen01_lcabinet06_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 B",
+        object = "cartty_kitchen01_lcabinet06_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 C",
+        object = "cartty_kitchen01_lcabinet06_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 D",
+        object = "cartty_kitchen01_lcabinet06_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 E",
+        object = "cartty_kitchen01_lcabinet06_e",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 F",
+        object = "cartty_kitchen01_lcabinet06_f",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 G",
+        object = "cartty_kitchen01_lcabinet06_g",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 H",
+        object = "cartty_kitchen01_lcabinet06_h",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 J",
+        object = "cartty_kitchen01_lcabinet06_j",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 K",
+        object = "cartty_kitchen01_lcabinet06_k",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 L",
+        object = "cartty_kitchen01_lcabinet06_l",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 M",
+        object = "cartty_kitchen01_lcabinet06_m",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 N",
+        object = "cartty_kitchen01_lcabinet06_n",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 O",
+        object = "cartty_kitchen01_lcabinet06_o",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 P",
+        object = "cartty_kitchen01_lcabinet06_p",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 06 R",
+        object = "cartty_kitchen01_lcabinet06_r",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 A",
+        object = "cartty_kitchen01_lcabinet07_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 B",
+        object = "cartty_kitchen01_lcabinet07_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 C",
+        object = "cartty_kitchen01_lcabinet07_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 D",
+        object = "cartty_kitchen01_lcabinet07_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 E",
+        object = "cartty_kitchen01_lcabinet07_e",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 F",
+        object = "cartty_kitchen01_lcabinet07_f",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 G",
+        object = "cartty_kitchen01_lcabinet07_g",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 H",
+        object = "cartty_kitchen01_lcabinet07_h",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 J",
+        object = "cartty_kitchen01_lcabinet07_j",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 K",
+        object = "cartty_kitchen01_lcabinet07_k",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 L",
+        object = "cartty_kitchen01_lcabinet07_l",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 M",
+        object = "cartty_kitchen01_lcabinet07_m",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 N",
+        object = "cartty_kitchen01_lcabinet07_n",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 O",
+        object = "cartty_kitchen01_lcabinet07_o",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 P",
+        object = "cartty_kitchen01_lcabinet07_p",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 07 R",
+        object = "cartty_kitchen01_lcabinet07_r",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 A",
+        object = "cartty_kitchen01_lcabinet08_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 B",
+        object = "cartty_kitchen01_lcabinet08_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 C",
+        object = "cartty_kitchen01_lcabinet08_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 D",
+        object = "cartty_kitchen01_lcabinet08_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 E",
+        object = "cartty_kitchen01_lcabinet08_e",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 F",
+        object = "cartty_kitchen01_lcabinet08_f",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 G",
+        object = "cartty_kitchen01_lcabinet08_g",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 H",
+        object = "cartty_kitchen01_lcabinet08_h",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 J",
+        object = "cartty_kitchen01_lcabinet08_j",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 K",
+        object = "cartty_kitchen01_lcabinet08_k",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 L",
+        object = "cartty_kitchen01_lcabinet08_l",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 M",
+        object = "cartty_kitchen01_lcabinet08_m",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 N",
+        object = "cartty_kitchen01_lcabinet08_n",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 O",
+        object = "cartty_kitchen01_lcabinet08_o",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 P",
+        object = "cartty_kitchen01_lcabinet08_p",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 08 R",
+        object = "cartty_kitchen01_lcabinet08_r",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 A",
+        object = "cartty_kitchen01_lcabinet09_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 B",
+        object = "cartty_kitchen01_lcabinet09_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 C",
+        object = "cartty_kitchen01_lcabinet09_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 D",
+        object = "cartty_kitchen01_lcabinet09_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 E",
+        object = "cartty_kitchen01_lcabinet09_e",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 F",
+        object = "cartty_kitchen01_lcabinet09_f",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 G",
+        object = "cartty_kitchen01_lcabinet09_g",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 H",
+        object = "cartty_kitchen01_lcabinet09_h",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 J",
+        object = "cartty_kitchen01_lcabinet09_j",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 K",
+        object = "cartty_kitchen01_lcabinet09_k",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 L",
+        object = "cartty_kitchen01_lcabinet09_l",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 M",
+        object = "cartty_kitchen01_lcabinet09_m",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 N",
+        object = "cartty_kitchen01_lcabinet09_n",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 O",
+        object = "cartty_kitchen01_lcabinet09_o",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 P",
+        object = "cartty_kitchen01_lcabinet09_p",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Lower Cabinet 09 R",
+        object = "cartty_kitchen01_lcabinet09_r",
+        price = 0,
+    },
+    -- Shelfs
+    {
+        label = "Kitchen01 Shelf 01 A",
+        object = "cartty_kitchen01_shelf01_a",
+        price = 0,
+    },
+    -- Wall Cabinets
+    {
+        label = "Kitchen01 Wall Cabinet 01 A",
+        object = "cartty_kitchen01_wcabinet01_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 01 B",
+        object = "cartty_kitchen01_wcabinet01_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 01 C",
+        object = "cartty_kitchen01_wcabinet01_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 01 D",
+        object = "cartty_kitchen01_wcabinet01_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 02 A",
+        object = "cartty_kitchen01_wcabinet02_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 02 B",
+        object = "cartty_kitchen01_wcabinet02_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 02 C",
+        object = "cartty_kitchen01_wcabinet02_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 02 D",
+        object = "cartty_kitchen01_wcabinet02_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 03 A",
+        object = "cartty_kitchen01_wcabinet03_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 03 B",
+        object = "cartty_kitchen01_wcabinet03_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 03 C",
+        object = "cartty_kitchen01_wcabinet03_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 03 D",
+        object = "cartty_kitchen01_wcabinet03_d",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 04 A",
+        object = "cartty_kitchen01_wcabinet04_a",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 04 B",
+        object = "cartty_kitchen01_wcabinet04_b",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 04 C",
+        object = "cartty_kitchen01_wcabinet04_c",
+        price = 0,
+    },
+    {
+        label = "Kitchen01 Wall Cabinet 04 D",
+        object = "cartty_kitchen01_wcabinet04_d",
+        price = 0,
+    },
+}
