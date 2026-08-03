@@ -17,7 +17,7 @@ code blocks in GitBook one by one.
 | Package | Docs | Configs |
 | --- | --- | --- |
 | **Free Food Props** | [docs](docs/food-props/free-food-props.md) | [configs/free-food-props/](configs/free-food-props/) — `ox_inventory`, `qb-smallresources`, `qb-core`, `qs_inventory` |
-| **Chicken Menu** | [docs](docs/food-props/chicken-menu.md) | [configs/chicken-menu/](configs/chicken-menu/) — `ox_inventory`, `qb-smallresources`, `qb-core`, `qs_inventory`, `tgiann_inventory`, `tgiann_food_jobs` |
+| **Chicken Menu** | [docs](docs/food-props/chicken-menu.md) | [configs/chicken-menu/](configs/chicken-menu/) — `ox_inventory`, `qb-smallresources`, `qb-core`, `qs_inventory`, `tgiann_inventory`, `tgiann_food_jobs`, `tgiann_v3_consumable` |
 | **Desert Set 01** | [docs](docs/food-props/desert-set-01.md) | [configs/desert-set-01/](configs/desert-set-01/) — `ox_inventory`, `qb-smallresources`, `qb-core`, `qs_inventory`, `tgiann_inventory`, `tgiann_v3_consumable` |
 
 ## Props & housing sets

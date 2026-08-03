@@ -181,6 +181,7 @@ Config.FurnitureStores = {
     title = "Ikea",
     Catagories = {"Decorations", "Tables", "Sofas", "Lounge"}
   },
+}
 
 Config.FurnitureCatagories = {
   ["Lounge"] = {

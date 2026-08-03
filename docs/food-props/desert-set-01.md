@@ -11,7 +11,7 @@ Config files for Supported Scripts.
 | [qb-core](#qb-core) | [`qb-core.lua`](../../configs/desert-set-01/qb-core.lua) |
 | [qs_inventory](#qs-inventory) | [`qs-inventory.lua`](../../configs/desert-set-01/qs-inventory.lua) |
 | [tgiann_inventory](#tgiann-inventory) | [`tgiann-inventory.lua`](../../configs/desert-set-01/tgiann-inventory.lua) |
-| [tgiann_v3_consumable](#tgiann-v3-consumable) | [`tgiann-v3-consumable.lua`](../../configs/desert-set-01/tgiann-v3-consumable.lua) |
+| [tgiann_v3_consumable](#tgiann-v3-consumable) | [`tgiann-v3-consumable.json`](../../configs/desert-set-01/tgiann-v3-consumable.json) |
 
 <h2 id="ox-inventory">ox_inventory</h2>
 
@@ -2146,12 +2146,12 @@ cartty_desert01_shake03 = {
 
 <h2 id="tgiann-v3-consumable">tgiann_v3_consumable</h2>
 
-📄 File: [`configs/desert-set-01/tgiann-v3-consumable.lua`](../../configs/desert-set-01/tgiann-v3-consumable.lua)
+📄 File: [`configs/desert-set-01/tgiann-v3-consumable.json`](../../configs/desert-set-01/tgiann-v3-consumable.json)
 
 <details>
 <summary>Show config (524 lines)</summary>
 
-```lua
+```json
 [
     {
         "item": "cartty_desert01_donut01",

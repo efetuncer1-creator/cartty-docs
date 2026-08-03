@@ -1,0 +1,524 @@
+[
+    {
+        "item": "cartty_desert01_donut01",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_donut01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0.0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_donut02",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_donut02",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0.0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_donut03",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_donut03",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0.0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_donut04",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_donut04",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0.0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_donut05",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_donut05",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0.0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_donut06",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_donut06",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0.0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_donut07",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_donut07",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0.0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_donut08",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_donut08",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0.0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_donut09",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_donut09",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0.0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_berliner01",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_berliner01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.006,
+                    -0.0021,
+                    -0.0302,
+                    12.2,
+                    -20.55,
+                    23.08
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_berliner02",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_berliner02",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.006,
+                    -0.0021,
+                    -0.0302,
+                    12.2,
+                    -20.55,
+                    23.08
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_berliner03",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_berliner03",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.006,
+                    -0.0021,
+                    -0.0302,
+                    12.2,
+                    -20.55,
+                    23.08
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_berliner04",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_berliner04",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.006,
+                    -0.0021,
+                    -0.0302,
+                    12.2,
+                    -20.55,
+                    23.08
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_berliner05",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_berliner05",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.006,
+                    -0.0021,
+                    -0.0302,
+                    12.2,
+                    -20.55,
+                    23.08
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_berliner06",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_berliner06",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.006,
+                    -0.0021,
+                    -0.0302,
+                    12.2,
+                    -20.55,
+                    23.08
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_berliner07",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_berliner07",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.006,
+                    -0.0021,
+                    -0.0302,
+                    12.2,
+                    -20.55,
+                    23.08
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_berliner08",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_berliner08",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.006,
+                    -0.0021,
+                    -0.0302,
+                    12.2,
+                    -20.55,
+                    23.08
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_berliner09",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_berliner09",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.006,
+                    -0.0021,
+                    -0.0302,
+                    12.2,
+                    -20.55,
+                    23.08
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_shake01",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "cartty_food@drink",
+            "animationName": "drink_straw"
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_shake01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0854,
+                    -0.0475,
+                    0.0479,
+                    -94.5,
+                    3.99,
+                    2.93
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_shake02",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "cartty_food@drink",
+            "animationName": "drink_straw"
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_shake02",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0854,
+                    -0.0475,
+                    0.0479,
+                    -94.5,
+                    3.99,
+                    2.93
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_desert01_shake03",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "cartty_food@drink",
+            "animationName": "drink_straw"
+        },
+        "propOptions": {
+            "Prop": "cartty_desert01_shake03",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0854,
+                    -0.0475,
+                    0.0479,
+                    -94.5,
+                    3.99,
+                    2.93
+                ]
+            }
+        }
+    }
+]

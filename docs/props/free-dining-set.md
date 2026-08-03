@@ -69,6 +69,7 @@ Config.FurnitureStores = {
   {
     title = "Home Depot",
     Catagories = {"Decorations", "Tables", "Dining Room"}
+  }
 }
 
 Config.FurnitureCatagories = {
