@@ -605,9 +605,13 @@ return {
 <h2 id="tgiann-food-jobs-v3">tgiann_food_jobs (v3)</h2>
 
 > [!NOTE]
-> This config is not part of the original GitBook documentation. It was generated from
-> the `ox_inventory` entries on this page. Item names, bones and prop offsets are
-> unchanged; item descriptions are new and can be reworded freely.
+> This config is not part of the original GitBook documentation. Item names, bones and
+> animations match the `ox_inventory` entries on this page.
+>
+> The **prop offsets and rotations do not**. They were measured separately in game for
+> `tgiann_food_jobs`, because the `ox_inventory` values attach the props wrong under this
+> script. Do not "fix" them back to the `ox_inventory` numbers — this is the only config
+> on this page whose placement values are its own.
 
 📄 File: [`configs/free-food-props/tgiann-food-jobs-v3.json`](../../configs/free-food-props/tgiann-food-jobs-v3.json)
 
@@ -630,12 +634,12 @@ return {
             "PropBone": 60309,
             "PropPlacement": {
                 "values": [
-                    0.0138,
-                    -0.0129,
-                    -0.0358,
-                    76.41,
-                    -12.86,
-                    -26.46
+                    0.0,
+                    0.0,
+                    0.0,
+                    81.35,
+                    96.02,
+                    -79.93
                 ]
             }
         }
@@ -654,12 +658,12 @@ return {
             "PropBone": 60309,
             "PropPlacement": {
                 "values": [
-                    0.0317,
-                    0.0106,
-                    -0.0375,
-                    87.68,
-                    -97.54,
-                    46.0
+                    -0.0142,
+                    0.0239,
+                    -0.0522,
+                    72.89,
+                    118.0,
+                    -78.22
                 ]
             }
         }
@@ -679,12 +683,12 @@ return {
             "PropBone": 60309,
             "PropPlacement": {
                 "values": [
-                    0.0734,
-                    0.037,
-                    0.0174,
-                    29.64,
-                    12.47,
-                    -61.83
+                    0.0048,
+                    -0.0186,
+                    -0.01,
+                    -7.9,
+                    22.4,
+                    71.55
                 ]
             }
         }
@@ -704,12 +708,12 @@ return {
             "PropBone": 60309,
             "PropPlacement": {
                 "values": [
-                    0.0711,
-                    0.0353,
-                    0.0191,
-                    9.87,
-                    -136.32,
-                    -53.33
+                    0.1892,
+                    -0.026,
+                    -0.0158,
+                    0.0,
+                    49.86,
+                    87.15
                 ]
             }
         }
@@ -729,12 +733,12 @@ return {
             "PropBone": 60309,
             "PropPlacement": {
                 "values": [
-                    0.0841,
-                    0.0422,
-                    0.0211,
-                    -4.23,
-                    49.33,
-                    -18.69
+                    0.0,
+                    0.0,
+                    0.0,
+                    -7.04,
+                    72.58,
+                    99.09
                 ]
             }
         }
