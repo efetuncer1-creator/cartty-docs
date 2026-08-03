@@ -8,7 +8,7 @@ code blocks in GitBook one by one.
 
 [![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/4EXtjUjuKQ) [![Tebex](https://img.shields.io/badge/Tebex-store-1abc9c)](https://cartty.tebex.io/) [![Docs](https://img.shields.io/badge/GitBook-docs-blue?logo=gitbook&logoColor=white)](https://cartty.gitbook.io/cartty-docs)
 
-**➡️ [Jump to the package list](#packages)** · **[Information](docs/information.md)** — asset naming, installation, housing script integration
+**➡️ [Jump to the prop list](#props)** · **[Information](docs/information.md)** — asset naming, installation, housing script integration
 
 ## Quick install
 
@@ -50,7 +50,7 @@ the format that script expects.
 * Do **not** upload Cartty assets to other websites or marketplaces.
 * Unauthorized leaks or distribution are strictly prohibited.
 
-## Packages
+## Props
 
 ### Food props
 
@@ -60,7 +60,7 @@ the format that script expects.
 | **Chicken Menu** | [docs](docs/food-props/chicken-menu.md) | [configs](configs/chicken-menu/) | the above + `tgiann_inventory`, `tgiann_food_jobs`, `tgiann_v3_consumable` |
 | **Desert Set 01** | [docs](docs/food-props/desert-set-01.md) | [configs](configs/desert-set-01/) | the above + `tgiann_inventory`, `tgiann_v3_consumable` |
 
-### Props & housing sets
+### Housing & furniture sets
 
 Every package below ships the same eleven housing configs: `BCS Housing V3`,
 `esx-properties`, `Loaf-Housing`, `Nolag-Properties`, `Origen-Housing`, `Ps-Housing`,
