@@ -543,11 +543,6 @@ return {
 
 <h2 id="tgiann-inventory">tgiann_inventory</h2>
 
-> [!NOTE]
-> This config is not part of the original GitBook documentation. It was generated from
-> the `ox_inventory` entries on this page. Item names, bones and prop offsets are
-> unchanged; item descriptions are new and can be reworded freely.
-
 📄 File: [`configs/free-food-props/tgiann-inventory.lua`](../../configs/free-food-props/tgiann-inventory.lua)
 
 <details>
@@ -603,24 +598,6 @@ return {
 </details>
 
 <h2 id="tgiann-food-jobs-v3">tgiann_food_jobs (v3)</h2>
-
-> [!NOTE]
-> This config is not part of the original GitBook documentation. Item names, bones and
-> animations match the `ox_inventory` entries on this page. **The prop placements do not,
-> and that is deliberate.**
->
-> `tgiann_food_jobs` attaches props with `AttachEntityToEntity` rotation order **0**, while
-> the placements were measured with a tool that uses order **2**. The same three numbers
-> describe a different orientation under each order, so the rotations below are the
-> measured values re-expressed for order 0. The offsets are unaffected by rotation order.
->
-> The gap between the two orders grows with the X rotation, which is why it shows up on
-> the drinks (X around 70-80°, roughly 120° of error) and is invisible on the food items
-> (X near 0). Do not "correct" these rotations back to the `ox_inventory` numbers.
->
-> If your build of `tgiann_food_jobs` supports the optional `PropRotationOrder` field
-> inside `PropPlacement`, you can instead set it to `2` and use the `ox_inventory`-style
-> measured values directly.
 
 📄 File: [`configs/free-food-props/tgiann-food-jobs-v3.json`](../../configs/free-food-props/tgiann-food-jobs-v3.json)
 

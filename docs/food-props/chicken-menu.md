@@ -2538,12 +2538,6 @@ config.consumableItems = {
 
 <h2 id="tgiann-food-jobs-v3">tgiann_food_jobs (v3)</h2>
 
-> [!NOTE]
-> This config is not part of the original GitBook documentation. It was generated from
-> the `tgiann_food_jobs` entries on this page, converted to the v3 JSON format used by
-> [Desert Set 01](desert-set-01.md#tgiann-food-jobs-v3). Item names, bones and prop
-> offsets are unchanged; animations are the ones already used by this package.
-
 📄 File: [`configs/chicken-menu/tgiann-food-jobs-v3.json`](../../configs/chicken-menu/tgiann-food-jobs-v3.json)
 
 <details>
