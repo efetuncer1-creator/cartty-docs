@@ -1,0 +1,125 @@
+[
+    {
+        "item": "cartty_fp01_yuzusoda",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "mp_player_intdrink",
+            "animationName": "loop_bottle"
+        },
+        "propOptions": {
+            "Prop": "cartty_fp01_yuzusoda",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0138,
+                    -0.0129,
+                    -0.0358,
+                    76.41,
+                    -12.86,
+                    -26.46
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_fp01_coffecup",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "mp_player_intdrink",
+            "animationName": "loop_bottle"
+        },
+        "propOptions": {
+            "Prop": "cartty_fp01_coffecup",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0317,
+                    0.0106,
+                    -0.0375,
+                    87.68,
+                    -97.54,
+                    46.0
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_fp01_mochi",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_fp01_mochi",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0734,
+                    0.037,
+                    0.0174,
+                    29.64,
+                    12.47,
+                    -61.83
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_fp01_newyorker",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_fp01_newyorker",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0711,
+                    0.0353,
+                    0.0191,
+                    9.87,
+                    -136.32,
+                    -53.33
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_fp01_onigiri",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_fp01_onigiri",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0841,
+                    0.0422,
+                    0.0211,
+                    -4.23,
+                    49.33,
+                    -18.69
+                ]
+            }
+        }
+    }
+]

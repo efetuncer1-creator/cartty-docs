@@ -34,8 +34,8 @@ To grab one directly:
 curl -O https://raw.githubusercontent.com/efetuncer1-creator/cartty-docs/main/configs/free-dining-set/qb-housing.lua
 ```
 
-Most configs are `.lua`. The `tgiann_v3_consumable` configs are `.json`, because that is
-the format that script expects.
+Most configs are `.lua`. The `tgiann_food_jobs` v3 configs are `.json`, because that is
+the format that version of the script expects.
 
 ## Support
 
@@ -56,9 +56,9 @@ the format that script expects.
 
 | Package | Docs | Configs | Supported scripts |
 | --- | --- | --- | --- |
-| **Free Food Props** | [docs](docs/food-props/free-food-props.md) | [configs](configs/free-food-props/) | `ox_inventory`, `qb-smallresources`, `qb-core`, `qs_inventory` |
-| **Chicken Menu** | [docs](docs/food-props/chicken-menu.md) | [configs](configs/chicken-menu/) | the above + `tgiann_inventory`, `tgiann_food_jobs`, `tgiann_v3_consumable` |
-| **Desert Set 01** | [docs](docs/food-props/desert-set-01.md) | [configs](configs/desert-set-01/) | the above + `tgiann_inventory`, `tgiann_v3_consumable` |
+| **Free Food Props** | [docs](docs/food-props/free-food-props.md) | [configs](configs/free-food-props/) | `ox_inventory`, `qb-smallresources`, `qb-core`, `qs_inventory` , `tgiann_inventory`, `tgiann_food_jobs` (v3) |
+| **Chicken Menu** | [docs](docs/food-props/chicken-menu.md) | [configs](configs/chicken-menu/) | the above + `tgiann_inventory`, `tgiann_food_jobs` (v2 and v3) |
+| **Desert Set 01** | [docs](docs/food-props/desert-set-01.md) | [configs](configs/desert-set-01/) | the above + `tgiann_inventory`, `tgiann_food_jobs` (v3) |
 
 ### Housing & furniture sets
 

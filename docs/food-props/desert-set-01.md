@@ -11,7 +11,7 @@ Config files for Supported Scripts.
 | [qb-core](#qb-core) | [`qb-core.lua`](../../configs/desert-set-01/qb-core.lua) |
 | [qs_inventory](#qs-inventory) | [`qs-inventory.lua`](../../configs/desert-set-01/qs-inventory.lua) |
 | [tgiann_inventory](#tgiann-inventory) | [`tgiann-inventory.lua`](../../configs/desert-set-01/tgiann-inventory.lua) |
-| [tgiann_v3_consumable](#tgiann-v3-consumable) | [`tgiann-v3-consumable.json`](../../configs/desert-set-01/tgiann-v3-consumable.json) |
+| [tgiann_food_jobs (v3)](#tgiann-food-jobs-v3) | [`tgiann-food-jobs-v3.json`](../../configs/desert-set-01/tgiann-food-jobs-v3.json) |
 
 <h2 id="ox-inventory">ox_inventory</h2>
 
@@ -2144,9 +2144,9 @@ cartty_desert01_shake03 = {
 
 </details>
 
-<h2 id="tgiann-v3-consumable">tgiann_v3_consumable</h2>
+<h2 id="tgiann-food-jobs-v3">tgiann_food_jobs (v3)</h2>
 
-📄 File: [`configs/desert-set-01/tgiann-v3-consumable.json`](../../configs/desert-set-01/tgiann-v3-consumable.json)
+📄 File: [`configs/desert-set-01/tgiann-food-jobs-v3.json`](../../configs/desert-set-01/tgiann-food-jobs-v3.json)
 
 <details>
 <summary>Show config (524 lines)</summary>

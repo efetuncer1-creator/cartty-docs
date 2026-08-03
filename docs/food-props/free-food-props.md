@@ -10,6 +10,8 @@ Config files for Supported Scripts.
 | [qb-smallresources](#qb-smallresources) | [`qb-smallresources.lua`](../../configs/free-food-props/qb-smallresources.lua) |
 | [qb-core](#qb-core) | [`qb-core.lua`](../../configs/free-food-props/qb-core.lua) |
 | [qs_inventory](#qs-inventory) | [`qs-inventory.lua`](../../configs/free-food-props/qs-inventory.lua) |
+| [tgiann_inventory](#tgiann-inventory) | [`tgiann-inventory.lua`](../../configs/free-food-props/tgiann-inventory.lua) |
+| [tgiann_food_jobs (v3)](#tgiann-food-jobs-v3) | [`tgiann-food-jobs-v3.json`](../../configs/free-food-props/tgiann-food-jobs-v3.json) |
 
 <h2 id="ox-inventory">ox_inventory</h2>
 
@@ -535,6 +537,209 @@ return {
         }
     }
 }
+```
+
+</details>
+
+<h2 id="tgiann-inventory">tgiann_inventory</h2>
+
+> [!NOTE]
+> This config is not part of the original GitBook documentation. It was generated from
+> the `ox_inventory` entries on this page. Item names, bones and prop offsets are
+> unchanged; item descriptions are new and can be reworded freely.
+
+📄 File: [`configs/free-food-props/tgiann-inventory.lua`](../../configs/free-food-props/tgiann-inventory.lua)
+
+<details>
+<summary>Show config (44 lines)</summary>
+
+```lua
+    -- ======================================================
+    -- CARTTY FREE FOOD PROPS
+    -- ======================================================
+
+    cartty_fp01_yuzusoda = {
+        label = 'Yuzu Soda',
+        weight = 200,
+        image = 'food/cartty_fp01_yuzusoda.png',
+        useable = true,
+        shouldClose = true,
+        description = 'A chilled citrus soda made with Japanese yuzu.'
+    },
+    cartty_fp01_coffecup = {
+        label = 'Coffee Cup',
+        weight = 200,
+        image = 'food/cartty_fp01_coffecup.png',
+        useable = true,
+        shouldClose = true,
+        description = 'A takeaway cup of hot coffee.'
+    },
+    cartty_fp01_mochi = {
+        label = 'Mochi',
+        weight = 200,
+        image = 'food/cartty_fp01_mochi.png',
+        useable = true,
+        shouldClose = true,
+        description = 'A soft Japanese rice cake with a sweet filling.'
+    },
+    cartty_fp01_newyorker = {
+        label = 'New Yorker',
+        weight = 200,
+        image = 'food/cartty_fp01_newyorker.png',
+        useable = true,
+        shouldClose = true,
+        description = 'New Yorker'
+    },
+    cartty_fp01_onigiri = {
+        label = 'Onigiri',
+        weight = 200,
+        image = 'food/cartty_fp01_onigiri.png',
+        useable = true,
+        shouldClose = true,
+        description = 'A Japanese rice ball wrapped in seaweed.'
+    },
+```
+
+</details>
+
+<h2 id="tgiann-food-jobs-v3">tgiann_food_jobs (v3)</h2>
+
+> [!NOTE]
+> This config is not part of the original GitBook documentation. It was generated from
+> the `ox_inventory` entries on this page. Item names, bones and prop offsets are
+> unchanged; item descriptions are new and can be reworded freely.
+
+📄 File: [`configs/free-food-props/tgiann-food-jobs-v3.json`](../../configs/free-food-props/tgiann-food-jobs-v3.json)
+
+<details>
+<summary>Show config (125 lines)</summary>
+
+```json
+[
+    {
+        "item": "cartty_fp01_yuzusoda",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "mp_player_intdrink",
+            "animationName": "loop_bottle"
+        },
+        "propOptions": {
+            "Prop": "cartty_fp01_yuzusoda",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0138,
+                    -0.0129,
+                    -0.0358,
+                    76.41,
+                    -12.86,
+                    -26.46
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_fp01_coffecup",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "mp_player_intdrink",
+            "animationName": "loop_bottle"
+        },
+        "propOptions": {
+            "Prop": "cartty_fp01_coffecup",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0317,
+                    0.0106,
+                    -0.0375,
+                    87.68,
+                    -97.54,
+                    46.0
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_fp01_mochi",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_fp01_mochi",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0734,
+                    0.037,
+                    0.0174,
+                    29.64,
+                    12.47,
+                    -61.83
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_fp01_newyorker",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_fp01_newyorker",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0711,
+                    0.0353,
+                    0.0191,
+                    9.87,
+                    -136.32,
+                    -53.33
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_fp01_onigiri",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_fp01_onigiri",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0841,
+                    0.0422,
+                    0.0211,
+                    -4.23,
+                    49.33,
+                    -18.69
+                ]
+            }
+        }
+    }
+]
 ```
 
 </details>

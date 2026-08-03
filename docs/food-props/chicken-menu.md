@@ -11,8 +11,8 @@ Config files for Supported Scripts.
 | [qb-core](#qb-core) | [`qb-core.lua`](../../configs/chicken-menu/qb-core.lua) |
 | [qs_inventory](#qs-inventory) | [`qs-inventory.lua`](../../configs/chicken-menu/qs-inventory.lua) |
 | [tgiann_inventory](#tgiann-inventory) | [`tgiann-inventory.lua`](../../configs/chicken-menu/tgiann-inventory.lua) |
-| [tgiann_food_jobs](#tgiann-food-jobs) | [`tgiann-food-jobs.lua`](../../configs/chicken-menu/tgiann-food-jobs.lua) |
-| [tgiann_v3_consumable](#tgiann-v3-consumable) | [`tgiann-v3-consumable.json`](../../configs/chicken-menu/tgiann-v3-consumable.json) |
+| [tgiann_food_jobs (v2)](#tgiann-food-jobs) | [`tgiann-food-jobs.lua`](../../configs/chicken-menu/tgiann-food-jobs.lua) |
+| [tgiann_food_jobs (v3)](#tgiann-food-jobs-v3) | [`tgiann-food-jobs-v3.json`](../../configs/chicken-menu/tgiann-food-jobs-v3.json) |
 
 <h2 id="ox-inventory">ox_inventory</h2>
 
@@ -2153,7 +2153,7 @@ cartty_cmenu_wrap = {
 
 </details>
 
-<h2 id="tgiann-food-jobs">tgiann_food_jobs</h2>
+<h2 id="tgiann-food-jobs">tgiann_food_jobs (v2)</h2>
 
 📄 File: [`configs/chicken-menu/tgiann-food-jobs.lua`](../../configs/chicken-menu/tgiann-food-jobs.lua)
 
@@ -2536,15 +2536,15 @@ config.consumableItems = {
 
 </details>
 
-<h2 id="tgiann-v3-consumable">tgiann_v3_consumable</h2>
+<h2 id="tgiann-food-jobs-v3">tgiann_food_jobs (v3)</h2>
 
 > [!NOTE]
 > This config is not part of the original GitBook documentation. It was generated from
 > the `tgiann_food_jobs` entries on this page, converted to the v3 JSON format used by
-> [Desert Set 01](desert-set-01.md#tgiann-v3-consumable). Item names, bones and prop
+> [Desert Set 01](desert-set-01.md#tgiann-food-jobs-v3). Item names, bones and prop
 > offsets are unchanged; animations are the ones already used by this package.
 
-📄 File: [`configs/chicken-menu/tgiann-v3-consumable.json`](../../configs/chicken-menu/tgiann-v3-consumable.json)
+📄 File: [`configs/chicken-menu/tgiann-food-jobs-v3.json`](../../configs/chicken-menu/tgiann-food-jobs-v3.json)
 
 <details>
 <summary>Show config (525 lines)</summary>
