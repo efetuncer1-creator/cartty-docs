@@ -606,12 +606,21 @@ return {
 
 > [!NOTE]
 > This config is not part of the original GitBook documentation. Item names, bones and
-> animations match the `ox_inventory` entries on this page.
+> animations match the `ox_inventory` entries on this page. **The prop placements do not,
+> and that is deliberate.**
 >
-> The **prop offsets and rotations do not**. They were measured separately in game for
-> `tgiann_food_jobs`, because the `ox_inventory` values attach the props wrong under this
-> script. Do not "fix" them back to the `ox_inventory` numbers — this is the only config
-> on this page whose placement values are its own.
+> `tgiann_food_jobs` attaches props with `AttachEntityToEntity` rotation order **0**, while
+> the placements were measured with a tool that uses order **2**. The same three numbers
+> describe a different orientation under each order, so the rotations below are the
+> measured values re-expressed for order 0. The offsets are unaffected by rotation order.
+>
+> The gap between the two orders grows with the X rotation, which is why it shows up on
+> the drinks (X around 70-80°, roughly 120° of error) and is invisible on the food items
+> (X near 0). Do not "correct" these rotations back to the `ox_inventory` numbers.
+>
+> If your build of `tgiann_food_jobs` supports the optional `PropRotationOrder` field
+> inside `PropPlacement`, you can instead set it to `2` and use the `ox_inventory`-style
+> measured values directly.
 
 📄 File: [`configs/free-food-props/tgiann-food-jobs-v3.json`](../../configs/free-food-props/tgiann-food-jobs-v3.json)
 
@@ -637,9 +646,9 @@ return {
                     0.0,
                     0.0,
                     0.0,
-                    81.35,
-                    96.02,
-                    -79.93
+                    -89.09,
+                    171.4,
+                    -163.84
                 ]
             }
         }
@@ -661,9 +670,9 @@ return {
                     -0.0142,
                     0.0239,
                     -0.0522,
-                    72.89,
-                    118.0,
-                    -78.22
+                    98.22,
+                    15.06,
+                    40.87
                 ]
             }
         }
@@ -686,9 +695,9 @@ return {
                     0.0048,
                     -0.0186,
                     -0.01,
-                    -7.9,
-                    22.4,
-                    71.55
+                    171.46,
+                    157.82,
+                    -111.69
                 ]
             }
         }
@@ -711,9 +720,9 @@ return {
                     0.1892,
                     -0.026,
                     -0.0158,
-                    0.0,
-                    49.86,
-                    87.15
+                    180.0,
+                    130.14,
+                    -92.85
                 ]
             }
         }
@@ -736,9 +745,9 @@ return {
                     0.0,
                     0.0,
                     0.0,
-                    -7.04,
-                    72.58,
-                    99.09
+                    -22.42,
+                    71.25,
+                    77.75
                 ]
             }
         }
