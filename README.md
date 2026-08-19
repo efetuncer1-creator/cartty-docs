@@ -59,6 +59,7 @@ the format that version of the script expects.
 | **Free Food Props** | [docs](docs/food-props/free-food-props.md) | [configs](configs/free-food-props/) | `ox_inventory`, `qb-smallresources`, `qb-core`, `qs_inventory` , `tgiann_inventory`, `tgiann_food_jobs` (v3) |
 | **Chicken Menu** | [docs](docs/food-props/chicken-menu.md) | [configs](configs/chicken-menu/) | the above + `tgiann_inventory`, `tgiann_food_jobs` (v2 and v3) |
 | **Desert Set 01** | [docs](docs/food-props/desert-set-01.md) | [configs](configs/desert-set-01/) | the above + `tgiann_inventory`, `tgiann_food_jobs` (v3) |
+| **Breakfast Set 01** | [docs](docs/food-props/breakfast-set-01.md) | [configs](configs/breakfast-set-01/) | the above + `tgiann_inventory`, `tgiann_food_jobs` (v3) |
 
 ### Housing & furniture sets
 

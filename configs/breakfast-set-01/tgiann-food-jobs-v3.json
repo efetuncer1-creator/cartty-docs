@@ -1,0 +1,391 @@
+[
+    {
+        "item": "cartty_breakfast_waffle02",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "cartty_breakfast@eat",
+            "animationName": "eat_plate"
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_waffle02",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.1445,
+                    0.005,
+                    -0.0129,
+                    -8.24,
+                    13.98,
+                    -0.89
+                ]
+            },
+            "SecondProp": "cartty_breakfast_fork01",
+            "SecondPropBone": 28422,
+            "SecondPropPlacement": {
+                "values": [
+                    0.1714,
+                    0.0692,
+                    -0.0786,
+                    -24.78,
+                    -78.42,
+                    -67.15
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_pancake01",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "cartty_breakfast@eat",
+            "animationName": "eat_plate"
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_pancake01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.1445,
+                    0.005,
+                    -0.0129,
+                    -8.24,
+                    13.98,
+                    -0.89
+                ]
+            },
+            "SecondProp": "cartty_breakfast_fork01",
+            "SecondPropBone": 28422,
+            "SecondPropPlacement": {
+                "values": [
+                    0.1714,
+                    0.0692,
+                    -0.0786,
+                    -24.78,
+                    -78.42,
+                    -67.15
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_eggbacon01",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "cartty_breakfast@eat",
+            "animationName": "eat_plate"
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_eggbacon01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.1445,
+                    0.005,
+                    -0.0129,
+                    -8.24,
+                    13.98,
+                    -0.89
+                ]
+            },
+            "SecondProp": "cartty_breakfast_fork01",
+            "SecondPropBone": 28422,
+            "SecondPropPlacement": {
+                "values": [
+                    0.1714,
+                    0.0692,
+                    -0.0786,
+                    -24.78,
+                    -78.42,
+                    -67.15
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_eggbacon02",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "cartty_breakfast@eat",
+            "animationName": "eat_plate"
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_eggbacon02",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.1445,
+                    0.005,
+                    -0.0129,
+                    -8.24,
+                    13.98,
+                    -0.89
+                ]
+            },
+            "SecondProp": "cartty_breakfast_fork01",
+            "SecondPropBone": 28422,
+            "SecondPropPlacement": {
+                "values": [
+                    0.1714,
+                    0.0692,
+                    -0.0786,
+                    -24.78,
+                    -78.42,
+                    -67.15
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_toast01",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_toast01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_toast02",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_toast02",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_bagel01",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_bagel01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_bagel02",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_bagel02",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_croissant01",
+        "type": "food",
+        "addValue": 100,
+        "progressbarLabel": "eating...",
+        "animation": {
+            "animDictionary": "mp_player_inteat@burger",
+            "animationName": "mp_player_int_eat_burger",
+            "startTime": 200
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_croissant01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    -0.0125,
+                    -0.0093,
+                    -0.0126,
+                    0,
+                    13.79,
+                    -46.85
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_mug01",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "amb@world_human_drinking@coffee@male@idle_a",
+            "animationName": "idle_c"
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_mug01",
+            "PropBone": 28422,
+            "PropPlacement": {
+                "values": [
+                    0.0068,
+                    -0.0156,
+                    -0.0262,
+                    9.8,
+                    -2.15,
+                    -84.64
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_mug02",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "amb@world_human_drinking@coffee@male@idle_a",
+            "animationName": "idle_c"
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_mug02",
+            "PropBone": 28422,
+            "PropPlacement": {
+                "values": [
+                    0.0068,
+                    -0.0156,
+                    -0.0262,
+                    9.8,
+                    -2.15,
+                    -84.64
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_juice01",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "mp_player_intdrink",
+            "animationName": "loop_bottle"
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_juice01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0238,
+                    -0.0002,
+                    -0.0121,
+                    0,
+                    0,
+                    -40
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_milk01",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "mp_player_intdrink",
+            "animationName": "loop_bottle"
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_milk01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0238,
+                    -0.0002,
+                    -0.0121,
+                    0,
+                    0,
+                    -40
+                ]
+            }
+        }
+    },
+    {
+        "item": "cartty_breakfast_cherry01",
+        "type": "drink",
+        "addValue": 100,
+        "progressbarLabel": "drinking...",
+        "animation": {
+            "animDictionary": "mp_player_intdrink",
+            "animationName": "loop_bottle"
+        },
+        "propOptions": {
+            "Prop": "cartty_breakfast_cherry01",
+            "PropBone": 60309,
+            "PropPlacement": {
+                "values": [
+                    0.0184,
+                    0.0072,
+                    -0.014,
+                    0,
+                    0,
+                    -40
+                ]
+            }
+        }
+    }
+]
